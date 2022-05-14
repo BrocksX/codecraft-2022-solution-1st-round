@@ -1,7 +1,3 @@
-/*
-* ol方法3+时间种子，100调+aver1+30调
-* 完美版，正赛295w
-*/
 #define _CRT_SECURE_NO_WARNINGS
 #include<cstring>
 #include<iostream>
